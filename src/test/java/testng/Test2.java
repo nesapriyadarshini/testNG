@@ -3,7 +3,7 @@ package testng;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class Test1 {
+public class Test2 {
   @Test
   public void f() {
 	  Assert.fail("I am f() and I fail");
